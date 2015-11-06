@@ -7,3 +7,15 @@ body {
 		padding-top: 70px;
 		padding-bottom: 100px;
 }
+
+p {
+	font-family: 'Oswald', sans-serif;
+}
+
+a {
+	font-family: 'Kaushan Script', cursive;
+}
+
+h1 {
+	font-family: 'Kaushan Script', cursive;
+}
