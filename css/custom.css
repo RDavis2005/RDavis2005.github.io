@@ -15,3 +15,91 @@ p {
 h1 {
 	font-family: 'Kaushan Script', cursive;
 }
+
+.navbar-default {
+		background-color: #2A2B2B;
+		border-color: #FFFFFF;
+		color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand {
+		color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+		color: #C79610;
+		background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+		color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+		color: #FFFFFF;
+		background-color: #5D6061;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+		color: #B5B512;
+		background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+		color: #FFFFFF;
+		background-color: #5D6061;
+}
+
+.btn-primary {
+		background-color: #5D6061;
+		border-color: #5D6061;
+		color: #FFFFFF;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+		color: #FFFFFF;
+		background-color: #141414;
+		border-color: #141414;
+}
+
+.btn-success {
+		background-color: #AD9703;
+		border-color: #AD9703;
+		color: #FFFFFF;
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active,
+.open .dropdown-toggle.btn-success {
+		color: #FFFFFF;
+		background-color: #6B5D03;
+		border-color: #6B5D03;
+}
+
+.btn-default {
+		background-color: #AD9703;
+		border-color: #AD9703;
+		color: #FFFFFF;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-default {
+		color: #FFFFFF;
+		background-color: #6B5D03;
+		border-color: #6B5D03;
+}
